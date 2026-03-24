@@ -10,7 +10,7 @@ Previously worked as an accountant, an experienced PC user. I plan to master new
 
 ### **_Contacts_**
 
-email: myemail@example.com  
+email: myemail@example.com
 tel.: +380777777777
 
 ### _Work & Experience_
