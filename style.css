@@ -1,25 +1,45 @@
-/* Базовый сброс стилей (Reset) */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  /* Удобный расчет размеров */
-}
-
-/* Основные стили страницы */
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f4f4f4;
-  padding: 20px;
-}
-
-/* Контейнер для центрирования контента */
-.container {
-  max-width: 800px;
+.contain {
+    color: #333333;
+  width: 80%;
+  max-width: 1200px;
   margin: 0 auto;
-  background: #fff;
-  padding: 20px;
-  border-radius: 8px;
+  font-size: 20px;
+}
+.H {
+  color: #000080;
+  text-align: center;
+}
+.cont {
+    display: flex;
+    gap: 50px;
+}
+.box {
+    display: inline-block;
+}
+.pre {
+    width: 90%;
+    font-size: 22px;
+}
+.contacts {
+    padding-top: 30px;
+}
+.table {
+    width: 30%;
+    margin-left: 20px
+}
+body {
+  background-image: linear-gradient(to right, #9ad2ff, #d1fac4);
+}
+.head {
+    font-size: 24px;
+    font-weight: bold;
+}
+.navigation {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
 }

@@ -51,3 +51,21 @@ I have experience working with such programs as: Microsoft Office, M.E.Doc, 1C. 
 - Agile
 - Responsible
 - Teamwork
+
+### _Code examples_
+
+var n1 = 4;
+
+var n2 = 5;
+
+var n3 = '15';
+
+console.log(n1 + n2);
+
+console.log(Number(n3) - n1);
+
+console.log(n3 + n2);
+
+console.log(Math.max(1, 8, -6));
+
+console.log(Math.min(1, 8, -6));
